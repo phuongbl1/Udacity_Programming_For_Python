@@ -6,6 +6,8 @@ CITY_DATA = { 'chicago': '/Users/apple/Downloads/all-project-files/chicago.csv',
               'new york city': '/Users/apple/Downloads/all-project-files/new_york_city.csv',
               'washington': '/Users/apple/Downloads/all-project-files/washington.csv' }
 
+print("Today.")              
+
 MONTH_DATA = {'january': 1, 'febuary': 2, 'march': 3, 'april ': 4, 'may': 5, 'june': 6, 'all': 7}
 
 DAY_DATA = {'monday': 1, 'tuesday': 2, 'wednesday': 3, 'thursday': 4, 'friday': 5, 'saturday': 6, 'sunday': 7, 'all': 8}  
