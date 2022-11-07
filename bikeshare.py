@@ -10,7 +10,7 @@ MONTH_DATA = {'january': 1, 'febuary': 2, 'march': 3, 'april ': 4, 'may': 5, 'ju
 
 DAY_DATA = {'monday': 1, 'tuesday': 2, 'wednesday': 3, 'thursday': 4, 'friday': 5, 'saturday': 6, 'sunday': 7, 'all': 8}  
 
-print("Today is 7 Nov")
+print("Add print statement.")
 
 def get_filters():
     """
@@ -57,13 +57,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-<<<<<<< HEAD
 print("Python")
-||||||| a61baeb
-
-=======
-# This is a comment on bikeshare.py
->>>>>>> documentation
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.

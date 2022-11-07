@@ -11,10 +11,3 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
-
-What Software Do I Need?
-To complete this project, the following software requirements apply:
-- You should have Python 3, NumPy, and pandas installed using Anaconda
-- A text editor, like Sublime or Atom.
-- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
-
