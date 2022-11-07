@@ -11,6 +11,8 @@ MONTH_DATA = {'january': 1, 'febuary': 2, 'march': 3, 'april ': 4, 'may': 5, 'ju
 DAY_DATA = {'monday': 1, 'tuesday': 2, 'wednesday': 3, 'thursday': 4, 'friday': 5, 'saturday': 6, 'sunday': 7, 'all': 8}  
 
 print("Today is 7 Nov")
+print("Python")
+print("Udacity")
 
 def get_filters():
     """
